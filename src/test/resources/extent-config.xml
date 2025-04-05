@@ -1,0 +1,10 @@
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <report-name>My Cucumber Report</report-name>
+        <document-title>Test Automation Report</document-title>
+        <time-stamp-format>MMM dd, yyyy HH:mm:ss</time-stamp-format>
+    </configuration>
+</extentreports>

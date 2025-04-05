@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QA Practice App" parallel="tests">
+
+    <listeners>
+        <listener class-name="com.practice.testComponents.Listners"></listener>
+    </listeners>
+
+
+    <test  name="Login and Place Order">
+        <classes>
+            <class name="com.practice.basics1.StandAloneRefinedTest">
+            </class>
+        </classes>
+    </test>
+
+</suite>

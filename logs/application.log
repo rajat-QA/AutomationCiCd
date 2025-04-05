@@ -1,0 +1,30 @@
+04-05-2025 11:04:00 BaseTest.java INFO  [TestNG-tests-1] basics1.BaseTest 43 - Browser is Initialized !!!!
+04-05-2025 11:04:01 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //input[@name='login']
+04-05-2025 11:04:03 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //h5[normalize-space()='ADIDAS ORIGINAL']/parent::div/button[2]
+04-05-2025 11:04:04 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - getTextofElement on following locator -> //*[contains(@class,'toast')]
+04-05-2025 11:04:05 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //*[contains(@routerlink,'cart')]
+04-05-2025 11:04:07 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //button[normalize-space()='Checkout']
+04-05-2025 11:04:07 BaseTest.java INFO  [TestNG-tests-1] basics1.BaseTest 43 - Window is closed !!!!
+04-05-2025 11:04:08 BaseTest.java INFO  [TestNG-tests-1] basics1.BaseTest 43 - Browser is Initialized !!!!
+04-05-2025 11:04:09 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //input[@name='login']
+04-05-2025 11:04:11 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //h5[normalize-space()='ADIDAS ORIGINAL']/parent::div/button[2]
+04-05-2025 11:04:12 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - getTextofElement on following locator -> //*[contains(@class,'toast')]
+04-05-2025 11:04:13 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //*[contains(@routerlink,'cart')]
+04-05-2025 11:04:15 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //button[normalize-space()='Checkout']
+04-05-2025 11:04:15 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - sendKeysToElement on following locator -> //input[contains(@placeholder,'Country')]
+04-05-2025 11:04:22 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - getTextofElement on following locator -> //label[@class='ng-star-inserted']
+04-05-2025 11:04:22 BaseTest.java INFO  [TestNG-tests-1] basics1.BaseTest 43 - Window is closed !!!!
+04-05-2025 11:04:23 BaseTest.java INFO  [TestNG-tests-1] basics1.BaseTest 43 - Browser is Initialized !!!!
+04-05-2025 11:04:24 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //input[@name='login']
+04-05-2025 11:04:26 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //h5[normalize-space()='ADIDAS ORIGINAL']/parent::div/button[2]
+04-05-2025 11:04:27 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - getTextofElement on following locator -> //*[contains(@class,'toast')]
+04-05-2025 11:04:28 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //*[contains(@routerlink,'cart')]
+04-05-2025 11:04:30 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElement on following locator -> //button[normalize-space()='Checkout']
+04-05-2025 11:04:30 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - sendKeysToElement on following locator -> //input[contains(@placeholder,'Country')]
+04-05-2025 11:04:37 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - getTextofElement on following locator -> //label[@class='ng-star-inserted']
+04-05-2025 11:04:37 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnElementUsingJS on following locator -> //button[contains(@routerlink,'myorders')]
+04-05-2025 11:04:38 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - getElement on following locator -> //thead/tr/th
+04-05-2025 11:04:38 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - getElement on following locator -> //tbody/tr
+04-05-2025 11:04:38 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - clickOnWebElementUsingJS on following WebElemet -> [[ChromeDriver: chrome on windows (c360a272b335fd06364fec2342bead1a)] -> xpath: //tbody/tr[1]/td/button[normalize-space()='View']]
+04-05-2025 11:04:38 BasePage.java INFO  [TestNG-tests-1] basePage.BasePage 45 - getTextofElement on following locator -> //div[@class='col-text -main']
+04-05-2025 11:04:38 BaseTest.java INFO  [TestNG-tests-1] basics1.BaseTest 43 - Window is closed !!!!
